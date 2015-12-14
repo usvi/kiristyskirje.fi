@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Kiristyskirje.fi</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/grayscale.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    kiristyskirje.fi (v. 1.02)
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#kirjebisnes">Kirjebisnes?</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#mitavointehda">Mitä voin tehdä?</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#uutisiajakirjoituksia">Uutisia & kirjoituksia</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading"><br>Kiristyskirje.fi</h1>
+                        <p class="intro-text">
+			  Saitko Hedman Partners -lakitoimistolta tai Adultialta kiristyskirjeen, jossa sinulta karhutaan satoja tai jopa tuhansia euroja? Ei hätää, voimme ehkä auttaa sinua.</p>
+			<p class="intro-text">
+			  Tälle sivulle on kerätty tietopaketti siitä, miten voit toimia tilanteessa. Jos etsit selkeitä ohjeita, siirry suoraan <a href="#mitavointehda">"Mitä voin tehdä"-osioon</a>.
+			  Muuten kerromme sinulle seuraavaksi, kuinka kirjebisnes toimii.</p>
+			<p class="intro-text">
+			  (Huomaathan, ettemme ole lakimiehiä, joten sivulla esitettyihin tietoihin tulee suhtautua tämä silmälläpitäen. Lainopillista kaupallista avustusta asiassa tarjoaa esimerkiksi
+			  <a href="http://www.turre.com/">Turre Legal.</a>)<br><br><a href="#mitavointehda" class="btn btn-default btn-lg">Mitä voin tehdä?</a><br><br></p>
+                        <a href="#kirjebisnes" class="btn btn-circle page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="kirjebisnes" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Kuinka kiristyskirjeet toimivat?</h2>
+		<p>Kiristyskirjebisnes toimii pääsääntöisesti seuraavalla tavalla:</p>
+		<p>1. Ulkomaalaiset elokuvayhtiöt, levy-yhtiöt ja ohjelmistotuottajat palkkaavat lakitoimintaa harjoittavan yrityksen suojelemaan tekijänoikeuksiaan Internetissä. Yritys on joko ulkomaalainen tai suomalainen. Mikäli yritys on ulkomaalainen, se hankkii yhteistyökumppanikseen suomalaisen lakifirman, joka hoitaa "likaisen työn".</p>
+		<p>2. Suomalainen lakifirma saa ulkomailta tiedon, että jotain tiettyä elokuvaa, albumia tai tietokoneohjelmaa jaetaan oikeudettomasti Internetissä. Lakifirma saa "todisteet" jakamisesta ulkomailta. "Todisteet" ovat tietoja ulkomaalaisista tekijänoikeusrekistereistä ja tiedostonjako-ohjelmien seurantaohjelmien lokitiedostoista. Lakitoimisto ei siis hanki todisteita itse, vaan luottaa esimerkiksi Saksasta tulleeseen tiedonantoon.</p>
+		<p>4. Lakifirma esittää kerralla noin 100-200 IP-osoitteen "todisteet" markkinaoikeudelle. Markkinaoikeus määrää Internet-palveluntarjoajia luovuttamaan IP-osoitteiden käyttäjien henkilötiedot.</p>
+		<p>5. Lakifirma saa henkilöiden yhteystiedot yrityksiltä ja lähettää kiristyskirjeet.</p>
+		<p>6. Riippuen kirjeisiin bittorrent-käyttäjiltä saaduista vastauksista jotkut (ilmeisen pieni osa tapauksista) viedään oikeuteen. Jotkut maksavat vaaditun summan suorilta, jotkut eivät.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section -->
+    <section id="mitavointehda" class="content-section text-center">
+        <div class="mitavointehda-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Mitä voin tehdä?</h2>
+		    <h3>Yleistä</h3>
+                    <p>Allekirjoita Piraattipuolueen puoluerekisterikortti, jotta pääsemme asettamaan ehdokkaita myös ensi vaaleissa ja korjaamaan lainsäädäntöä tältäkin osin. Käytössä olevaa järjestelmää muutetaan lopullisesti vain poliittisen päätöksenteon kautta.<br><br><a href="http://allekirjoita.fi/" class="btn btn-default btn-lg">Täytä puoluerekisterikortti, katso ohjeet</a><br><br></p>
+		    <h3>Jos olet jakanut</h3>
+                    <p>Sinulla on useampi vaihtoehto riippuen tilanteestasi.</p>
+                    <p>Yksi tapa on olla reagoimatta millään tavalla. Tällöin Hedman Partners ottaa yhteyttä uudella kirjeellä, johon kannattaa olla reagoimatta myös. Mikäli firmasta soitetaan, voi puhelimessa kertoa, kuinka ei tiedä ollenkaan mistä on kysymys, ja luuli aikaisempia kirjeitä huijauskirjeiksi.</p>
+                    <p>Toinen vaihtoehto on lähettää vastineeksi oma kirje, jossa kerrot esimerkiksi seuraavaa: "Lähettämänne kirje koskien väitettyä tekijänoikeudenloukkausta on aiheeton. Seuraavasta vastaavasta yhteydenotosta teemme tutkintapyynnön poliisille." Luonnollisesti mikäli on itse syyllistynyt jakamiseen, ei tutkintapyyntöä poliisille kannata tehdä.</p>
+                    <p>Kolmas vaihtoehto on maksaa. Voit joko käyttää Turre Legalin (ns. hyvisten lakitoimisto) neuvottelija-palvelua osoitteessa <a href="http://www.turre.com/turre-neuvottelija/">http://www.turre.com/turre-neuvottelija/</a>. Sen avulla maksettava summa saattaa pienentyä. Voit myös maksaa summan täysimääräisenä. Valitettavasti täysimääräisen summan maksaminen ei ole tae, ettei kiristyskirjeitä tulisi jatkossa lisää. Voi olla, että kiristäjien havaitessa maksavan asiakkaan, häntä pommitetaan uusilla kirjeillä myöhemminkin. Muutamat kirjeen saaneet ovatkin kertoneet uusista yhteydenotoista.</p>
+                    <p>Mikäli et maksa vaadittua summaa, voit joutua jossain vaiheessa oikeuden eteen. Toisaalta lehtitietojen mukaan oikeustapauksia on tällä hetkellä (2.12.2015) käynnissä noin kolme, siinä missä kiristyskirjeitä on lähetelty Suomessa satoja tai jopa tuhansia kappaleita. Mahdollisuus sille, että asia viedään oikeuteen on ainakin vielä huomattavan pieni.</p>
+                    <p>Jos oikeudenkäynti uhkaa, saattaa olla laitonta hävittää todistusaineistoa. Tällaiseksi voidaan tulkita esimerkiksi <a href="https://personaldatasecurity.wordpress.com/kiintolevyn-taydellinen-ylikirjoitus/">kiintolevyn täydellinen ylikirjoittaminen</a>, jolloin ohjelmat ja tallennetut tiedostot tuhoutuvat palauttamattomasti.</p>
+                    <p>Käyttöjärjestelmän uudelleenasennukset ja vaihtamiset ovat puolestaan normaalia  toimintaa ja useimmat Windowsin käyttäjät tekevät sitä  huoltotoimenpiteenä esimerkiksi virusten ja hakkereiden haittaohjelmien  perusteelliseksi poistamiseksi.</p>
+                    <p>Jos verkkoyhteytesi on Wlanilla jaettu, on täysin mahdollista että yhteyttä  on käyttänyt muutkin tahot. Täysin avoimeen on pääsy kenellä tahansa,  tehdasasetuksena tulevat ja muut heikot salasanat voidaan murtaa  helposti ja jos liittymän haltijan perheenjäsenillä on hallussa  langattoman verkon salasana, se voi myös helposti levitä muillekin, kuten lasten ystäville.</p>
+                    <p>Muista, että rikoksesta epäillyllä ei ole velvollisuutta auttaa poliisia selvittämään rikosta. Tämä on Suomen lakien mukaan OK ja myös <a href="https://www.poliisi.fi/rikokset/asianosaisten_kuulusteleminen/kuulusteltavan_oikeudet_ja_kuulustelun_suorittaminen">poliisi itse kertoo näin nettisivuillaan</a>.</p>
+		    <h3>Jos et ole jakanut</h3>
+                    <p>Jos et ole jakanut mitään väitettyä materiaalia bittorrentilla tai muilla tavoin, olet periaatteessa turvassa. Jos joku perheenjäsenesi on jakanut,mutta et sinä, olet myös periaatteessa turvassa. Jos joku muu on käyttänyt yhteyttäsi, olet turvassa. Ns. <a href="http://www.turre.com/ylivieskan-ko-ei-vastuuta-wlanista/">Case Toppinen -tapauksen</a> jälkeen oikeus määräsi, että liittymän haltija ei ole vastuussa, jos muut liittymän käyttäjät käyttävät liittymää warettamiseen. Muista, että Suomessa ei tarvitse todistaa itseään eikä perheenjäseniään vastaan. Poliisille ei tarvitse myöskään luovuttaa ATK-laitteistonsa salausavaimia.</p>
+                    <p>Mikäli et ole jakanut väitettyjä aineistoja, suosittelemme lähettämään Hedman Partnerssille kirjeen, jossa huomautetaan yhteydenoton aiheettomuudesta ja kertomaan että uudet yhteydenotot johtavat tutkintapyynnön tekemiseen poliisille rikosnimikkeellä "kiristys" tai "törkeä kiristys." Rikosilmoituksen voi tehdä poliisille sähköisesti. Väärin perustein saaduista kirjeistä kannattaa tehdä myös kantelu Asianajajaliitton Valvontalautakuntaan. Valituksen kohteena tulee olla kirjeen lähettänyt asianajaja tai oikeudenkäyntiavustaja.
+<br><br><a href="https://www.poliisi.fi/rikokset/sahkoinen_rikosilmoitus" class="btn btn-default btn-lg">Sähköisen rikosilmoituksen tekeminen</a><br>
+<br><a href="http://www.valvontalautakunta.fi/valvontalautakunta/kanteluprosessin_eteneminen" class="btn btn-default btn-lg">Kantelun tekeminen Valvontalautakuntaan</a></p><br>
+		    <h3>Vastaisuuden varalle</h3>
+                    <p>Suojaa viestintäsi Internetissä. Voit esimerkiksi ostaa ns. <a href="https://fi.wikipedia.org/wiki/VPN">VPN-palvelun</a> joltakin palveluntarjoajalta ja käyttää nettiä sen suojista. Tutustu <a href="https://personaldatasecurity.wordpress.com/tiedostojen-salaus/">kryptausohjelmiin</a>, joiden avulla voit salata tietokoneen kiintolevyn. Jos olet epäiltynä rikoksesta, kryptauksen avaavaa salausavainta ei tarvitse luovuttaa poliisille.
+		      <br><br><a href="https://ipredator.se/" class="btn btn-default btn-lg">VPN-palvelu IPredator</a><br><br></p>
+		    <h2>Kysymyksiä ja vastauksia</h2>
+                    <p>Voit tarvittaessa ottaa Piraattipuolueeseen yhteyttä esimerkiksi sähköpostitse. Osoitteemme on <a href="mailto:kiristyskirjeet&#x40piraattipuolue.fi">kiristyskirjeet&#x40piraattipuolue.fi</a>.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="uutisiajakirjoituksia" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Uutisia ja kirjoituksia</h2>
+                <p>
+		  Kaupallista lakiapua: <a href="http://www.turre.com/turre-neuvottelija/">http://www.turre.com/turre-neuvottelija/</a><br><br>
+		  Turre Legalin muita ohjeita: <a href="http://www.turre.com/tekijanoikeuksien-laillista-valvontaa-vai-kiristysta/">http://www.turre.com/tekijanoikeuksien-laillista-valvontaa-vai-kiristysta/</a><br><br>
+		  Sebastian Mäen blogaus: <a href="http://blogi.sebastianmaki.fi/2015/03/kiristyskirjeiden-uusi-aalto-ja-ohjeita.html">http://blogi.sebastianmaki.fi/2015/03/kiristyskirjeiden-uusi-aalto-ja-ohjeita.html</a><br><br>
+		  Janne Paalijärven blogaus: <a href="http://usvi.puheenvuoro.uusisuomi.fi/194786-kiristyskirjeiden-uudet-tulemiset">http://usvi.puheenvuoro.uusisuomi.fi/194786-kiristyskirjeiden-uudet-tulemiset</a><br><br>
+		  Juhani Kähärän blogaus: <a href="http://juhanikhr.puheenvuoro.uusisuomi.fi/207210-tekijanoikeuskirjeet-tayttavat-rikoksen-tunnusmerkkeja">http://juhanikhr.puheenvuoro.uusisuomi.fi/207210-tekijanoikeuskirjeet-tayttavat-rikoksen-tunnusmerkkeja</a><br><br>
+		  Piraattipuolueen puoluerekisterikortin allekirjoitusohjeet: <a href="http://allekirjoita.fi/">http://allekirjoita.fi/</a><br><br>
+		  Keskustelua Muropaketissa: <a href="http://murobbs.muropaketti.com/threads/hedman-partnersilta-kiristyskirje.1213329/">http://murobbs.muropaketti.com/threads/hedman-partnersilta-kiristyskirje.1213329/</a><br><br>
+		  Ylen uutinen kiristyskirjeistä: <a href="http://yle.fi/uutiset/latasitko_netista_ilmaisen_elokuvan_siita_saattaa_kohta_ihan_oikeasti_joutua_oikeuteen/8440926">http://yle.fi/uutiset/latasitko_netista_ilmaisen_elokuvan_siita_saattaa_kohta_ihan_oikeasti_joutua_oikeuteen/8440926</a><br><br>
+		  Ylen uutinen tapauksesta, jossa syytöntä perhettä kiristettiin kirjeellä: <a href="http://yle.fi/uutiset/syyton_perhe_uhattiin_haastaa_oikeuteen_tuhansien_kappaleiden_lataamisesta_nettiin/8478535">http://yle.fi/uutiset/syyton_perhe_uhattiin_haastaa_oikeuteen_tuhansien_kappaleiden_lataamisesta_nettiin/8478535</a><br><br>
+		  Janne Paalijärven kantelu Hedman Partnersista: <a href="http://usvi.puheenvuoro.uusisuomi.fi/207461-tein-viranomaisille-kantelun-kiristyskirjefirma-hedman-partnerssista">http://usvi.puheenvuoro.uusisuomi.fi/207461-tein-viranomaisille-kantelun-kiristyskirjefirma-hedman-partnerssista</a><br><br>
+		  Turre Legalin vastine kiristyskirjeeseen: <a href="http://www.turre.com/hedman-partners-ensimmaiset-kanteet-oikeuteen/">http://www.turre.com/hedman-partners-ensimmaiset-kanteet-oikeuteen/</a><br><br>
+
+</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Copyleft Piraattipuolue 2015</p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/grayscale.js"></script>
+
+</body>
+
+</html>
